@@ -14,4 +14,4 @@ Essayez-le maintenant. Il n'y a pas grand-chose.
 Si vous publiez quelque chose par erreur, vous pouvez le supprimer,
 mais il n'y a aucune garantie que personne ne l'a vu dans l'intervalle.)
 
-Ensuite, lancez `$ ADVENTURE_COMMAND verify` lorsque vous avez terminé.
+Ensuite, lancez `$ADVENTURE_COMMAND verify` lorsque vous avez terminé.

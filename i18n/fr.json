@@ -44,10 +44,10 @@
   "package-niceties": {
     "problem": "Pas assez!\nIl reste toujours un problème à résoudre.",
     "error": "Uh oh!\nIl semble que quelque chose se soit mal passé",
-    "success": "Regardez précisément!\nUn paquet sans fichier lisez-moi et certaines métadonnées est comme un\npaquet de JavaScript sans instructions ni liens à un dépôt git."
+    "success": "Pas mal du tout !\nSachez qu'un paquet sans fichier lisez-moi (README) ni certaines métadonnées, c'est comme un\npaquet de JavaScript sans instructions ni liens à un dépôt git."
   },
   "publish": {
-    "error": "Uh oh!\nIl semble que vous n'avez pas publié le\n  package {{name}}\n.  Essayez encore !"
+    "error": "Uh oh!\nIl semble que vous n'ayez pas publié le\n  package {{name}}\n.  Essayez encore !"
   },
   "version": {
     "invalid_semver": "On dirait que votre package.json a une version non valide !\nUtilisez `npm help semver` pour en savoir plus sur les numéros de version\nVotre version actuelle: {{version}}\n",
